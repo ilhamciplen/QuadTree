@@ -1,0 +1,10 @@
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\bin\Debug\QuadTreeDemoApp.exe
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\bin\Debug\QuadTreeDemoApp.pdb
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\bin\Debug\QuadTreeLib.dll
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\bin\Debug\QuadTreeLib.pdb
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.csprojResolveAssemblyReference.cache
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.MainForm.resources
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.Properties.Resources.resources
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.csproj.GenerateResource.Cache
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.exe
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeDemoApp\obj\Debug\QuadTreeDemoApp.pdb

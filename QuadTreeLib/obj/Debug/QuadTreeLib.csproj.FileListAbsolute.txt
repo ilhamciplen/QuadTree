@@ -1,0 +1,5 @@
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeLib\bin\Debug\QuadTreeLib.dll
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeLib\bin\Debug\QuadTreeLib.pdb
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeLib\obj\Debug\QuadTreeLib.csprojResolveAssemblyReference.cache
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeLib\obj\Debug\QuadTreeLib.dll
+E:\ILHAM DATA\KULIAH\SEMESTER 7\Pemrograman Game A\QuadTree_src\QuadTreeLib\obj\Debug\QuadTreeLib.pdb
